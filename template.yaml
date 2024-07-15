@@ -2,8 +2,8 @@ apiVersion: scaffolder.backstage.io/v1beta3
 
 kind: Template
 metadata:
-  name: example-golang-template
-  title: Example Golang Template
+  name: example-golang-template-pitch
+  title: Example Golang Template Pitch
   description: An example template for the scaffolder that creates a simple Golang service
 spec:
   owner: user:guest
